@@ -1,4 +1,4 @@
-# COVID Analytics — Python + Power B
+# COVID Analytics — Python + Power BI
 
 **Stack:** Python (pandas, NumPy, matplotlib/seaborn) · Power BI  
 **Archivos:** [CSV](data/processed/DatosFinalesFiltrado.csv) · [Notebook](notebooks/Biogenesys.ipynb) · [PBIX](powerbi/Biogenesys.pbix) · [Informe PDF](docs/Biogenesys.pdf)
